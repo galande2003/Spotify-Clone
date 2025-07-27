@@ -37,7 +37,7 @@ Clone this repository
 bash
 Copy
 Edit
-git clone https://github.com/your-username/spotify-clone.git
+git clone
 Navigate to the project folder
 
 bash
